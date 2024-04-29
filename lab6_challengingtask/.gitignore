@@ -1,0 +1,7 @@
+.clangd
+.mbed
+.cache
+mbed
+BUILD
+compile_commands.json
+TextLCD.h
